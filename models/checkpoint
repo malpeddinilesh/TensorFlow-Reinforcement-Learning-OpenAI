@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nilesh.malpeddi/Documents/TensorFlowDeepLearning/07-Reinforcement-Learning-OpenAI/models/myPolyGradient_NN_Gym"
+all_model_checkpoint_paths: "/Users/nilesh.malpeddi/Documents/TensorFlowDeepLearning/07-Reinforcement-Learning-OpenAI/models/myPolyGradient_NN_Gym"
